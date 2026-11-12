@@ -18,4 +18,4 @@ const MENU = [
   { id: 13, category: "Thali",    name: "Dal Bati Churma",        emoji: "🍛", price: "₹299" }
 ];
 
-if (typeof module !== "undefined") module.exports = MENU;
+if (typeof module !== "undefined") module.exports = MENU; 
