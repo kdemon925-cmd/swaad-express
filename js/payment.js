@@ -1,6 +1,6 @@
 // SWAAD EXPRESS PAYMENT OPTIONS (PayKaro is our payment partner)
 // RULE 3: the payment screen must offer UPI and Card.
-const PAYMENT_NOTE = "";   // F3 fills this with a short reassurance line
+const PAYMENT_NOTE = "You are paying to SWAAS EXPRESS";   // F3 fills this with a short reassurance line
 
 const PAYMENT_METHODS = [
   { id: "upi",  label: "UPI",  hint: "GPay, PhonePe, Paytm or any UPI app" },
